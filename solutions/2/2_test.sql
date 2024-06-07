@@ -1,0 +1,1 @@
+SELECT category, sum(money) as money FROM payments FINAL GROUP BY category

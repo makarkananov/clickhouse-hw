@@ -1,0 +1,1 @@
+SELECT id, counter FROM counters FINAL

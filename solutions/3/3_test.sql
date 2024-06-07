@@ -1,0 +1,1 @@
+SELECT * FROM payments_for_parents FINAL;
